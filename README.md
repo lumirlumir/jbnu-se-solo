@@ -1,5 +1,5 @@
 # JBNU_4-1_SE_Solo
-> 소프트웨어 공학
+> Software Engineering. 소프트웨어 공학.
 
 ## 개발 환경
 > Python3
