@@ -6,7 +6,7 @@
 
 ### 1-1. Summary
 
-수업 간 소프트웨어공 과제 [소스 코드](/src) 및 [레포트](/docs/report.pdf) 모음.
+수업 간 소프트웨어공학 과제 [소스 코드](/src) 및 [레포트](/docs/report.pdf) 모음.
 
 Python Unittest Framework를 이용한 TDD(Test Driven Development) 기반 개발.
 
