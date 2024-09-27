@@ -6,6 +6,8 @@
 
 ### 1-1. Summary
 
+수업 간 소프트웨어공 과제 [소스 코드](/src) 및 [레포트](/docs/report.pdf) 모음.
+
 Python Unittest Framework를 이용한 TDD(Test Driven Development) 기반 개발.
 
 여기서는 `capitalize_first_letter()` 메소드(함수)에 대한 Unit Testing 구현.
